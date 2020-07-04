@@ -1,1 +1,4 @@
-# via-varejo-test
+# via-varejo
+
+### Para executar o teste:
+```$./gradlew cucumber```
